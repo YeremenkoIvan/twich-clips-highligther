@@ -1,0 +1,10 @@
+config:
+
+  streamers:
+    - huey
+    - dewey
+    - louie
+    - fred
+
+  skip_streamers:
+    - loc

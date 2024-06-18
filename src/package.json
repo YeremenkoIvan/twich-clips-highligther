@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/YeremenkoIvan/twich-clips-highligther/issues"
   },
-  "homepage": "https://github.com/YeremenkoIvan/twich-clips-highligther#readme"
+  "homepage": "https://github.com/YeremenkoIvan/twich-clips-highligther#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "type" : "module"
 }
